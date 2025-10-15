@@ -122,7 +122,7 @@ else {
 
 
 
-let  nomutilisateur = "Admin"
+let nomutilisateur = "Admin"
 let motdepasse = "1234"
 let nomuti = String(prompt("entrer un  nom"));
 let mots = parseFloat(prompt("entrer  un mot de passe"));
