@@ -34,7 +34,7 @@ console.log ("la somme est " +somme);*/
     let moyenne = 0
     for (i = 0; i < tab.length ; i++){
          somme = somme + tab.length
-    }
+    }  
      moyenne = somme / tab.length;
     return moyenne;
 
