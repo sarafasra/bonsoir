@@ -58,9 +58,10 @@ for (let i = 0; i < taches.length; i++){
 supprimertache();
 
 function Affichertachesterminées(){
+
     for(let i = 0; i < taches.length; i++){
         if(taches[i].isDone == true){
-            console.log("termoner");
+            console.log("terminer");
         }else{
             console.log ("en attente ");
         }
